@@ -1,0 +1,14 @@
+{
+    "name": "escodegen",
+   
+    "dependencies": {
+        "estraverse": "https://github.com/estools/estraverse.git"       
+    },
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
+}
